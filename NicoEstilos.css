@@ -10,6 +10,10 @@ body {background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp
     background-color: white;
     width: 150px;
 }
+.mapa {
+    width: 940px;
+    margin: 0 auto;
+}
 .peor {
     background-color: black;
     color: white;
